@@ -1,0 +1,23 @@
+.card{
+  height:100%;
+  width: 100%;
+  background-color: white;
+
+}
+.cardbody{
+  width: 40%;
+  height:80%;
+  margin-top: 50px;
+  padding: 50px;
+  background-color: skyblue;
+  margin-left: 28%;
+}
+.inputbox{
+  height: 30px;
+  border-radius: 20px;
+}
+.submit{
+  background-color: rgb(247, 62, 6);
+  height: 30px;
+  border-radius: 20px;
+}
